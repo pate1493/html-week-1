@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-   
+    <!-- the body is where you put anything you want user to see through the browser  -->
+     <main>
+        <h1>Welcome to Eeb Deb II</h1>
+        <p>this is test of git hub page</p>
+     </main>
   </body>
 </html>
